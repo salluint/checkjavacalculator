@@ -8,5 +8,8 @@ int b = 10;
 int add=a+b;
 
 System.out.println("The addition is"+add);
+
+int multiply = a*b;
+System.out.println("The multiplication is"+multiply);
 }
 }
